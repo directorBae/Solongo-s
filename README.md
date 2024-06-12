@@ -29,9 +29,9 @@
 
 - 배정원
 
-  - [] routes 디렉토리. 프론트엔드와 직접적으로 통신하는 엔드포인트.
-  - [] models 디렉토리. Agent Model을 다룰 때 사용. ChatGPT 모델을 활용한 Agent 모델 개발.
+  - [ ] routes 디렉토리. 프론트엔드와 직접적으로 통신하는 엔드포인트.
+  - [ ] models 디렉토리. Agent Model을 다룰 때 사용. ChatGPT 모델을 활용한 Agent 모델 개발.
 
 - 조성운
-  - [] db 디렉토리 및 db. SQLite3와 SQL-Alchemy를 활용한 데이터베이스 운용 및 관리.
-  - [] utils 디렉토리. TourAPI 및 KakaoAPI, 기타 모듈 관리. 이 부분은 배정원 과업에 따라 배정원도 개발에 참여할 수 있음.
+  - [ ] db 디렉토리 및 db. SQLite3와 SQL-Alchemy를 활용한 데이터베이스 운용 및 관리.
+  - [ ] utils 디렉토리. TourAPI 및 KakaoAPI, 기타 모듈 관리. 이 부분은 배정원 과업에 따라 배정원도 개발에 참여할 수 있음.
