@@ -1,0 +1,9 @@
+# secure the environment variables
+.env
+
+# secure the database
+db.sqlite3
+*.db
+
+# pycache files
+__pycache__/
